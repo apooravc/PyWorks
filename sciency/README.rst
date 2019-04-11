@@ -20,7 +20,7 @@ sciency/
 
 For usage, install sciency through following steps -
 
-1. Clone repository through ``https://github.com/apooravc/PyWorks.git``
+1. Clone repository through ``git clone https://github.com/apooravc/PyWorks.git``
 2. Open command prompt and execute ``pip install -e PyWorks/sciency``
 
 This installs sciency in developer mode so that there's no need to re-install after editing source code. To uninstall use ``pip uninstall sciency``.
